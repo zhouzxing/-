@@ -1,0 +1,349 @@
+{
+  "slide_size": "16:9",
+  "theme": {
+    "primary": "8B5E3C",
+    "secondary": "C4956C",
+    "accent": "D4A853",
+    "light": "F5E6D3",
+    "dark": "2C1810",
+    "text_light": "FFFFFF",
+    "text_dark": "3E2C1A",
+    "text_muted": "8B7355"
+  },
+  "slides": [
+    {
+      "layout": "title",
+      "background": "3E2C1A",
+      "title": "黄土塬上的古村落",
+      "subtitle": "山西运城稷山县化峪镇邢堡村纪行",
+      "notes": "欢迎来到稷山县化峪镇邢堡村——黄土高原上一个安静而古老的村落。"
+    },
+    {
+      "layout": "title",
+      "background": "2C1810",
+      "title": "目  录",
+      "subtitle": "",
+      "notes": "全篇七个章节。"
+    },
+    {
+      "layout": "title_content",
+      "background": "F5E6D3",
+      "title": "壹 · 地理概貌",
+      "subtitle": "吕梁山南麓 · 黄土塬上 · 化峪河谷",
+      "notes": "稷山县位于运城盆地北部，北靠吕梁山。"
+    },
+    {
+      "layout": "two_content",
+      "background": "F5E6D3",
+      "title": "地理区位与地形地貌",
+      "subtitle": "",
+      "left_bullets": [
+        {"text": "位置：吕梁山前沿脚下，黄华峪口正南五华里", "level": 0, "bold": true, "size": 14},
+        {"text": "距化峪镇2.5公里，距稷山县城约20公里", "level": 1, "size": 12},
+        {"text": "村域面积约4550亩，耕地4024亩", "level": 1, "size": 12},
+        {"text": "北临开东村，南接程杜村，交通四通八达", "level": 1, "size": 12},
+        {"text": "村北侯西高速直达西安，村南管化路穿村而过", "level": 1, "size": 12}
+      ],
+      "right_bullets": [
+        {"text": "地形：典型黄土高原丘陵地貌", "level": 0, "bold": true, "size": 14},
+        {"text": "整个村庄坐落在东西走向的黄土塬上", "level": 1, "size": 12},
+        {"text": "北面深沟数米，沟底季节性小河", "level": 1, "size": 12},
+        {"text": "南面层层叠叠的梯田，如同天阶", "level": 1, "size": 12},
+        {"text": "塬地平坦、梯田狭窄、沟坝地肥沃", "level": 1, "size": 12}
+      ],
+      "notes": "邢堡村地处吕梁山南麓，黄土塬之上。"
+    },
+    {
+      "layout": "title_content",
+      "background": "F5E6D3",
+      "title": "贰 · 历史溯源",
+      "subtitle": "后稷故里 · 华夏农耕文明发祥地 · 千年古县",
+      "notes": "稷山县因后稷教民稼穑而得名。"
+    },
+    {
+      "layout": "title_content",
+      "background": "F5E6D3",
+      "title": "后稷教民稼穑——华夏农耕之源",
+      "subtitle": "相传上古时期，周人始祖后稷在此'播百谷，树艺五谷'",
+      "bullets": [
+        {"text": "稷山，中国首批'千年古县'之一", "level": 0, "bold": true, "size": 14},
+        {"text": "后稷（弃），周人始祖，被尊为'农神'", "level": 1, "size": 13},
+        {"text": "'播百谷，树艺五谷'——中华农耕文明从这里开始", "level": 1, "size": 13},
+        {"text": "国家板枣公园·守望千年·只为枣你", "level": 1, "size": 13},
+        {"text": "稷山四宝：麻花、饼子、鸡蛋、板枣", "level": 1, "size": 13},
+        {"text": "7处国家级文物保护单位：大佛寺、稷王庙、青龙寺、宋金墓等", "level": 1, "size": 13}
+      ],
+      "notes": "稷山是中华农耕文明的重要发祥地。"
+    },
+    {
+      "layout": "title_content",
+      "background": "F5E6D3",
+      "title": "邢堡村名溯源与古槐记忆",
+      "subtitle": "六百余年古槐树，洪洞大移民的见证",
+      "bullets": [
+        {"text": "'邢堡'村名传说", "level": 0, "bold": true, "size": 14},
+        {"text": "一说：古时邢姓人家在此筑堡而居", "level": 1, "size": 13},
+        {"text": "另一说：春秋时期邢国遗民避难所，邢人北迁定居", "level": 1, "size": 13},
+        {"text": "古槐树——村口的六百余年老树", "level": 0, "bold": true, "size": 14},
+        {"text": "明朝初年洪洞大移民时栽下", "level": 1, "size": 13},
+        {"text": "树干需三个成年人合抱，树皮皲裂如鳞，枝叶繁茂", "level": 1, "size": 13},
+        {"text": "'问我祖先在何处，山西洪洞大槐树'——移民记忆的活化石", "level": 1, "size": 13}
+      ],
+      "notes": "邢堡村名的由来有两种说法，古槐树是六百年移民历史的活证。"
+    },
+    {
+      "layout": "title_content",
+      "background": "F5E6D3",
+      "title": "叁 · 古村落建筑",
+      "subtitle": "窑洞 · 四合院 · 关帝庙 · 古井",
+      "notes": "邢堡村保留了大量晋南传统民居。"
+    },
+    {
+      "layout": "two_content",
+      "background": "F5E6D3",
+      "title": "晋南传统民居：窑洞与四合院",
+      "subtitle": "",
+      "left_bullets": [
+        {"text": "靠崖窑洞", "level": 0, "bold": true, "size": 14},
+        {"text": "在黄土崖壁上挖出的洞穴式居所", "level": 1, "size": 13},
+        {"text": "冬暖夏凉——天然'恒温房'", "level": 1, "size": 13},
+        {"text": "门窗拱形，窗棂贴红纸窗花", "level": 1, "size": 13},
+        {"text": "'五谷丰登''六畜兴旺'图案年年换新", "level": 1, "size": 13},
+        {"text": "窑房结合：窑洞前接出一间砖房", "level": 1, "size": 13}
+      ],
+      "right_bullets": [
+        {"text": "晋南四合院", "level": 0, "bold": true, "size": 14},
+        {"text": "富裕人家：高大门楼、砖雕照壁、五脊六兽", "level": 1, "size": 13},
+        {"text": "普通人家：三面土窑或砖窑围出方院", "level": 1, "size": 13},
+        {"text": "院中种石榴树或枣树——吉祥寓意", "level": 1, "size": 13},
+        {"text": "院门贴对联、门楣挂红布条或小镜子", "level": 1, "size": 13},
+        {"text": "巷道：青砖碎石路面，被岁月磨得光滑圆润", "level": 1, "size": 13}
+      ],
+      "notes": "晋南民居窑洞与四合院并存。"
+    },
+    {
+      "layout": "title_content",
+      "background": "F5E6D3",
+      "title": "古村落文化地标",
+      "subtitle": "关帝庙 · 古井 · 碑刻——村庄的记忆坐标",
+      "bullets": [
+        {"text": "关帝庙", "level": 0, "bold": true, "size": 14},
+        {"text": "村中央，一间正殿 + 一座戏台", "level": 1, "size": 13},
+        {"text": "殿内壁画：关羽过五关斩六将，线条粗犷，民间画匠手笔", "level": 1, "size": 13},
+        {"text": "戏台对联：'借虚事指点实事，托古人提醒今人'", "level": 1, "size": 13},
+        {"text": "古井", "level": 0, "bold": true, "size": 14},
+        {"text": "村东头，井口石沿被井绳磨出深深凹槽", "level": 1, "size": 13},
+        {"text": "'大清乾隆年间重修'石碑——见证井的悠久历史", "level": 1, "size": 13}
+      ],
+      "notes": "关帝庙和古井是邢堡村的文化地标。"
+    },
+    {
+      "layout": "title_content",
+      "background": "F5E6D3",
+      "title": "肆 · 农耕文明",
+      "subtitle": "黄土塬上的智慧耕作 · 麦浪翻滚的金黄时节",
+      "notes": "邢堡村以农业为主，小麦是主粮。"
+    },
+    {
+      "layout": "two_content",
+      "background": "F5E6D3",
+      "title": "梯田·塬地·沟坝地——因地制宜的智慧",
+      "subtitle": "",
+      "left_bullets": [
+        {"text": "塬地", "level": 0, "bold": true, "size": 14},
+        {"text": "平坦，适合种小麦和玉米", "level": 1, "size": 13},
+        {"text": "梯田", "level": 0, "bold": true, "size": 14},
+        {"text": "狭窄，多种谷子、豆类和红薯", "level": 1, "size": 13},
+        {"text": "沟坝地", "level": 0, "bold": true, "size": 14},
+        {"text": "沟底淤积出的肥沃土地，种什么都长得旺", "level": 1, "size": 13}
+      ],
+      "right_bullets": [
+        {"text": "麦收时节", "level": 0, "bold": true, "size": 14},
+        {"text": "六月麦浪翻滚，黄土塬染上金黄色", "level": 1, "size": 13},
+        {"text": "家家户户男女老少齐上阵", "level": 1, "size": 13},
+        {"text": "镰刀割麦'唰唰'声此起彼伏", "level": 1, "size": 13},
+        {"text": "打麦场上麦垛堆得像小山", "level": 1, "size": 13},
+        {"text": "脱粒机整夜轰鸣，新麦清香弥漫", "level": 1, "size": 13}
+      ],
+      "notes": "因地制宜的耕作方式。"
+    },
+    {
+      "layout": "title_content",
+      "background": "F5E6D3",
+      "title": "伍 · 稷山四宝——美食与特产",
+      "subtitle": "麻花 · 饼子 · 鸡蛋 · 板枣",
+      "notes": "稷山四宝是当地最具代表性的美食特产。"
+    },
+    {
+      "layout": "title_content",
+      "background": "F5E6D3",
+      "title": "稷山四宝",
+      "subtitle": "麻花 | 饼子 | 鸡蛋 | 板枣",
+      "bullets": [
+        {"text": "🍜 稷山麻花——国家非物质文化遗产", "level": 0, "bold": true, "size": 15},
+        {"text": "'赵氏四味坊'历经六代人传承，18道纯手工技艺流程", "level": 1, "size": 13},
+        {"text": "油酥麻花：五谷香、爽心甜、到口酥、家常脆四种口味", "level": 1, "size": 13},
+        {"text": "年销量超1.5万吨，销售额达1.2亿元", "level": 1, "size": 13},
+        {"text": "🥮 稷山饼子——打饼子专业户遍布全国16省市", "level": 0, "bold": true, "size": 15},
+        {"text": "数万人从事打饼子产业，每年创收超5亿元", "level": 1, "size": 13},
+        {"text": "🥚 稷山鸡蛋——'中国鸡蛋十大品牌'", "level": 0, "bold": true, "size": 15},
+        {"text": "蛋鸡存栏1600万只，日产鸡蛋1200万枚", "level": 1, "size": 13},
+        {"text": "🌰 稷山板枣——'枣中之王'", "level": 0, "bold": true, "size": 15},
+        {"text": "15.3万亩枣树，1.75万株千年以上古树", "level": 1, "size": 13},
+        {"text": "2009年获评'中国十大名枣之首'", "level": 1, "size": 13}
+      ],
+      "notes": "稷山四宝——麻花、饼子、鸡蛋、板枣。"
+    },
+    {
+      "layout": "title_content",
+      "background": "F5E6D3",
+      "title": "非遗美食：稷山麻花的制作传奇",
+      "subtitle": "18道工序 · 六代传承 · 1600年历史",
+      "bullets": [
+        {"text": "起源：南北朝时期，民间'咬蝎尾'习俗——油炸蝎尾状面食", "level": 0, "size": 13},
+        {"text": "唐代：宰相将家乡麻花介绍给朝中同僚，成为宫廷佳品", "level": 0, "size": 13},
+        {"text": "清代：'赵氏四味坊'百年老店创立", "level": 0, "size": 13},
+        {"text": "今天：国家非遗 + 中华老字号，畅销全国31省市", "level": 0, "size": 13},
+        {"text": "18道工序：培养酵块→掺水接面→分接面→掺水掺油→反复揉面→", "level": 1, "italic": true, "size": 11},
+        {"text": "面节擦油→卧缸存放→搓条上劲→分板打畦→扭股成形→入锅油炸→", "level": 1, "italic": true, "size": 11},
+        {"text": "添加辅料→出锅淋油→定型摆放→化熬糖汁→翻拨整形", "level": 1, "italic": true, "size": 11}
+      ],
+      "notes": "稷山麻花制作技艺入选国家级非遗。"
+    },
+    {
+      "layout": "title_content",
+      "background": "F5E6D3",
+      "title": "陆 · 名人古迹 · 文化名片",
+      "subtitle": "7处国宝 · 3处全国重点文保单位 · 千年板枣古稀树群",
+      "notes": "稷山县拥有7处国家级文物保护单位。"
+    },
+    {
+      "layout": "title_content",
+      "background": "F5E6D3",
+      "title": "稷山国宝级古迹",
+      "subtitle": "",
+      "bullets": [
+        {"text": "⛩️ 稷山大佛寺（AAA级景区）", "level": 0, "bold": true, "size": 14},
+        {"text": "始建于金代皇统二年（1142年），距今880余年", "level": 1, "size": 12},
+        {"text": "金代依崖巨佛：高20米，宽6.7米，气魄雄伟", "level": 1, "size": 12},
+        {"text": "山西省面积最大的单体仿元建筑", "level": 1, "size": 12},
+        {"text": "⛩️ 稷王庙（全国重点文保单位）", "level": 0, "bold": true, "size": 14},
+        {"text": "始建于元至正五年（1345），占地10080平方米", "level": 1, "size": 12},
+        {"text": "集石雕、木刻、琉璃为一体，古建筑'三绝'", "level": 1, "size": 12},
+        {"text": "献殿八景图：'稷峰叠翠、姑射晴岚、甘泉...'", "level": 1, "size": 12},
+        {"text": "⛩️ 丁庄李家大院", "level": 0, "bold": true, "size": 14},
+        {"text": "十二座四合院组成，东西长89.4米，南北宽34.5米", "level": 1, "size": 12},
+        {"text": "晋商大院建筑艺术的重要实物资料", "level": 1, "size": 12},
+        {"text": "⛩️ 其他国宝：青龙寺、宋金墓、马村墓室、法王庙等", "level": 0, "bold": true, "size": 14}
+      ],
+      "notes": "稷山大佛寺、稷王庙、丁庄李家大院是最著名的三处古迹。"
+    },
+    {
+      "layout": "title_content",
+      "background": "F5E6D3",
+      "title": "非遗民俗：高跷走兽 · 高台花鼓 · 螺钿漆器",
+      "subtitle": "",
+      "bullets": [
+        {"text": "🎭 高跷走兽——稷山独特民俗", "level": 0, "bold": true, "size": 14},
+        {"text": "表演者脚踩高跷，头戴兽首，模仿动物形态游行", "level": 1, "size": 13},
+        {"text": "🥁 稷山高台花鼓——国家级非物质文化遗产", "level": 0, "bold": true, "size": 14},
+        {"text": "鼓乐铿锵，舞步矫健，是晋南最盛大的民间表演", "level": 1, "size": 13},
+        {"text": "🎨 稷山螺钿漆器髤饰技艺——国家级非物质文化遗产", "level": 0, "bold": true, "size": 14},
+        {"text": "以螺壳、贝壳等天然材料镶嵌漆器，图案精美", "level": 1, "size": 13},
+        {"text": "🪕 金银细工制作技艺", "level": 0, "bold": true, "size": 14},
+        {"text": "传统金银加工技艺，是晋南民间工艺的代表", "level": 1, "size": 13},
+        {"text": "🎯 邢堡村广场舞：《两只蝴蝶》表演队——17人专业队伍", "level": 0, "bold": true, "size": 14}
+      ],
+      "notes": "高跷走兽、高台花鼓、螺钿漆器是稷山最具代表性的非遗项目。"
+    },
+    {
+      "layout": "title_content",
+      "background": "F5E6D3",
+      "title": "柒 · 网红打卡与短视频传播",
+      "subtitle": "抖音 · 视频号 · 山西DOU是好风光",
+      "notes": "近年来，短视频成为乡村文旅传播的重要渠道。"
+    },
+    {
+      "layout": "two_content",
+      "background": "F5E6D3",
+      "title": "短视频传播矩阵",
+      "subtitle": "",
+      "left_bullets": [
+        {"text": "🔥 '山西DOU是好风光'项目", "level": 0, "bold": true, "size": 13},
+        {"text": "字节跳动公益 + 抖音生活服务联合发起", "level": 1, "size": 12},
+        {"text": "话题播放量超10亿+，总投稿2万+", "level": 1, "size": 12},
+        {"text": "千万粉丝创作者@阿波发布游山西内容", "level": 1, "size": 12},
+        {"text": "带动@厦门芬兰 @福建大乔 @阿远旅行等百万粉创作者投稿", "level": 1, "size": 12},
+        {"text": "📱 博主案例", "level": 0, "bold": true, "size": 13},
+        {"text": "'发癫吧，后浪！'——抖音博主探访山西古村", "level": 1, "size": 12},
+        {"text": "百万点赞，带动游客蜂拥而至", "level": 1, "size": 12},
+        {"text": "95后'贾欣锞'直播间——稷山农耕文明故事", "level": 1, "size": 12},
+        {"text": "年销售额近400万元，远销缅甸印尼", "level": 1, "size": 12}
+      ],
+      "right_bullets": [
+        {"text": "🎥 参考视频链接", "level": 0, "bold": true, "size": 13},
+        {"text": "抖音：#山西DOU是好风光", "level": 1, "size": 11, "link": "https://www.douyin.com/search/%E5%B1%B1%E8%A5%BFDOU%E6%98%AF%E5%A5%BD%E9%A3%8E%E5%85%89"},
+        {"text": "抖音：#稷山麻花", "level": 1, "size": 11, "link": "https://www.douyin.com/search/%E7%A8%BC%E5%B1%B1%E9%BA%BB%E8%8A%B1"},
+        {"text": "抖音：#稷山板枣", "level": 1, "size": 11, "link": "https://www.douyin.com/search/%E7%A8%BC%E5%B1%B1%E6%9D%BF%E6%9E%A3"},
+        {"text": "抖音：#晋宝 山西文旅", "level": 1, "size": 11, "link": "https://www.douyin.com/search/%E6%B5%85%E5%AE%9D%E5%B1%B1%E8%A5%BF"},
+        {"text": "视频号：@山西文旅 官方账号", "level": 1, "size": 11},
+        {"text": "📌 拍摄建议", "level": 0, "bold": true, "size": 13},
+        {"text": "麦收季航拍：黄土塬上的金黄麦浪", "level": 1, "size": 12},
+        {"text": "古窑洞内景：冬暖夏凉的恒温空间", "level": 1, "size": 12},
+        {"text": "麻花制作全过程：18道工序慢镜头", "level": 1, "size": 12},
+        {"text": "板枣采摘：千年古树上的红枣", "level": 1, "size": 12}
+      ],
+      "notes": "短视频是乡村文旅的重要传播渠道。"
+    },
+    {
+      "layout": "title_content",
+      "background": "F5E6D3",
+      "title": "农文旅融合：守望千年·只为枣你",
+      "subtitle": "稷山国家板枣公园 · AAA级景区",
+      "bullets": [
+        {"text": "国家板枣公园——全国第一个经济作物类枣林公园", "level": 0, "bold": true, "size": 14},
+        {"text": "1.75万株千年以上古板枣树 + 5万株五百年以上古树", "level": 1, "size": 12},
+        {"text": "🎯 '守望千年·只为枣你'农文旅融合发展示范园区", "level": 0, "bold": true, "size": 14},
+        {"text": "183家市场主体入驻，累计接待游客180余万人次", "level": 1, "size": 12},
+        {"text": "10大业态28个系列：吃住行游购娱全要素产业链", "level": 1, "size": 12},
+        {"text": "🎭 '稷颂'沉浸式文化主题演艺", "level": 0, "bold": true, "size": 14},
+        {"text": "展现粮为国本、教民稼穑、江山社稷的深远意义", "level": 1, "size": 12},
+        {"text": "🏡 业态亮点：星空民宿 | 亲子乐园 | 唐枣温泉 | 非遗街区 | 观光小火车", "level": 1, "size": 12},
+        {"text": "🏆 获奖：国家AAA级景区 | 国家农村产业融合发展示范园", "level": 1, "size": 12},
+        {"text": "🍇 黄河一号旅游公路为稷山带来更多发展机遇", "level": 1, "size": 12}
+      ],
+      "notes": "稷山国家板枣公园是农文旅融合的标杆项目。"
+    },
+    {
+      "layout": "title",
+      "background": "2C1810",
+      "title": "结  语",
+      "subtitle": "黄土塬上的古村落，六百年老槐树下，后稷故里的风——",
+      "notes": ""
+    },
+    {
+      "layout": "title_content",
+      "background": "3E2C1A",
+      "title": "致敬 · 这片土地",
+      "subtitle": "",
+      "bullets": [
+        {"text": "🏛️ 地理与人文：吕梁山南麓，黄土塬上，后稷故里", "level": 0, "size": 14},
+        {"text": "🏠 古村落建筑：窑洞 · 四合院 · 关帝庙 · 古井", "level": 0, "size": 14},
+        {"text": "🌾 农耕文明：塬地 · 梯田 · 沟坝地 · 麦浪金黄", "level": 0, "size": 14},
+        {"text": "🍜 特色美食：稷山四宝——麻花 · 饼子 · 鸡蛋 · 板枣", "level": 0, "size": 14},
+        {"text": "⛩️ 名人古迹：大佛寺 · 稷王庙 · 丁庄李家大院 · 7处国宝", "level": 0, "size": 14},
+        {"text": "🎭 非遗民俗：高跷走兽 · 高台花鼓 · 螺钿漆器 · 金银细工", "level": 0, "size": 14},
+        {"text": "🎥 传播矩阵：抖音 · 视频号 · 山西DOU是好风光", "level": 0, "size": 14},
+        {"text": "🌳 农文旅融合：守望千年·只为枣你 · 国家板枣公园", "level": 0, "size": 14}
+      ],
+      "notes": ""
+    },
+    {
+      "layout": "title",
+      "background": "3E2C1A",
+      "title": "稷山四宝  麻花饼子鸡蛋枣",
+      "subtitle": "—— 后稷故里 · 千年古县 · 守望千年 · 只为枣你",
+      "notes": ""
+    }
+  ]
+}
